@@ -62,17 +62,18 @@ h3{
 
 .top-cloud{
  position: absolute;
-right: 180px;
-top: 50px;
+right: 7rem;
+top: 1rem;
 width: 18%;
 }
 
 .bottom-cloud{
   position: absolute;
-  left: 250px;
+  left: 10rem;
   bottom: 300px;
   width: 18%;
 }
+
 hr{
   color: grey;
   border-style: none;
